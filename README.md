@@ -91,7 +91,7 @@ Create the database:
 ## 🚀 Running the Project
 **1️⃣ Clone the project**
 
-    git clone <your-repo-url>
+    git clone https://github.com/Ashif2601/Student-Management-System
 **2️⃣ Open in IntelliJ / Eclipse**\
 **3️⃣ Install dependencies**
 
